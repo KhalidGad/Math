@@ -1,0 +1,7 @@
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\obj\Debug\Gauss-Jordan Elimination.csprojAssemblyReference.cache
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\obj\Debug\Gauss-Jordan Elimination.csproj.CoreCompileInputs.cache
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\bin\Debug\Gauss-Jordan Elimination.exe.config
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\bin\Debug\Gauss-Jordan Elimination.exe
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\bin\Debug\Gauss-Jordan Elimination.pdb
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\obj\Debug\Gauss-Jordan Elimination.exe
+C:\Users\Khalid.G\source\repos\Gauss-Jordan Elimination\Gauss-Jordan Elimination\obj\Debug\Gauss-Jordan Elimination.pdb
